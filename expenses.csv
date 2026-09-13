@@ -1,0 +1,15 @@
+Date,Category,Description,Amount,Payment_Method
+2026-09-01,Food,Lunch,250,UPI
+2026-09-01,Transport,Auto,180,Cash
+2026-09-02,Education,Python Course,1200,UPI
+2026-09-02,Food,Dinner,450,UPI
+2026-09-03,Shopping,Clothes,1800,Card
+2026-09-03,Transport,Metro,100,UPI
+2026-09-04,Food,Groceries,900,Card
+2026-09-04,Education,Books,700,UPI
+2026-09-05,Entertainment,Movie,500,Card
+2026-09-05,Food,Lunch,300,Cash
+2026-09-06,Shopping,Shoes,2500,Card
+2026-09-06,Transport,Cab,350,UPI
+2026-09-07,Food,Dinner,600,UPI
+2026-09-07,Education,Stationery,300,Cash
